@@ -23,7 +23,6 @@
     "file-saver": "^2.0.2",
     "ipfs": "^0.42.1",
     "ipfs-pubsub-peer-monitor": "0.0.9",
-    "ipfs-pubsub-room": "^2.0.1",
     "it-all": "latest",
     "js-file-downloader": "^1.1.6",
     "libp2p-webrtc-star": "latest",
